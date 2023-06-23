@@ -4,21 +4,21 @@
             "id": 1,
             "name": "T-Shirt 1",
             "price": 19.99,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "image": "tshirt1.jpg"
+            "description": "Displayed with ",
+            "image": "images/tshirt1.jpg"
         },
         {
             "id": 2,
             "name": "T-Shirt 2",
             "price": 24.99,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "image": "tshirt2.jpg"
+            "image": "images/tshirt2.jpg"
         },
         {
             "id": 3,
             "name": "T-Shirt 3",
             "price": 15.99,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Cool naruto image come buy this limited edition shirt at a fraction of the cost.",
             "image": "images/tshirt3.jpg"
         },
         {
@@ -26,21 +26,21 @@
             "name": "T-Shirt 4",
             "price": 32.99,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "image": "tshirt4.jpg"
+            "image": "images/tshirt4.jpg"
         },
         {
             "id": 5,
             "name": "T-Shirt 5",
             "price": 29.99,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "image": "tshirt5.jpg"
+            "image": "images/tshirt5.jpg"
         },
         {
             "id": 6,
             "name": "T-Shirt 6",
             "price": 11.99,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "image": "tshirt6.jpg"
+            "image": "images/tshirt6.jpg"
         }
     ]
 }
